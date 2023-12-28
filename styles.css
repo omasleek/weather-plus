@@ -1,0 +1,13 @@
+body {
+    background-color: aqua;
+    font-family: 'Lato', sans-serif;
+}
+.app {
+background: peachpuff;
+max-width: 600px;
+margin:45px auto;
+padding: 30px;
+box-shadow: 0 30px 30px rgba(65, 50, 100, 0.28);
+border-radius: 18px;
+}
+   
